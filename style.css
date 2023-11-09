@@ -1,0 +1,37 @@
+body{
+    background-color: #183B59;
+    color: white;
+}
+.paginicial{
+    height: 500px;
+    text-align: center;
+    font-size: 1.5em;
+    padding: 10px;
+
+}
+.cxinicial{
+    text-align: center;
+    height: 350px;
+    margin-left: 30%;
+    margin-right: 30%;
+    background-color: #183B59;
+    border-radius: 20px 20px 20px 20px;
+    padding: 10px;
+    box-shadow: 1px 3px 2px white ;
+    border: 1px solid ghostwhite;
+    /*opacity: 0.4; */
+}
+.cxinicial p{
+    font-family: agbalumo;
+}
+.but{
+    height: 50px;
+    width: 200px;
+    color: white;
+    font-size: 0.8em;
+    background-color: #183B59;
+    border-radius: 6px;
+    font-family: agbalumo;
+    text-align: center;
+}   
+
